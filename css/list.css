@@ -1,0 +1,172 @@
+.header .second_logo a {
+    display: inline-block;
+    height: 32px;
+    width: 86px;
+    position: absolute;
+    left: 185px;
+    top: 11px;
+    background: url(../images/秒杀拷贝.png) no-repeat center;
+    border-left: 1px solid #b1191a;
+}
+
+.header .second_logo h1 {
+    font-size: 0px;
+}
+
+.main_nav {
+    height: 32px;
+    margin-top: 38px;
+    width: 100%;
+    border-bottom: 1px solid #b1191a;
+}
+
+.l_nav li {
+    float: left;
+
+}
+
+.l_nav li a {
+    padding: 0 30px;
+    font-size: 16px;
+    color: #000;
+    font-weight: 700;
+}
+
+.r_nav li {
+    float: left;
+}
+
+.r_nav li a {
+    padding: 0 23px;
+    font-size: 14px;
+    color: #747474;
+    font-family: 'icomoon';
+}
+
+.r_nav li a:hover {
+    color: #c81623;
+}
+
+.banner {
+    height: 120px;
+}
+
+.phone {
+    float: left;
+    height: 460px;
+    border: 1px solid transparent;
+    width: 290px;
+    margin-right: 13px;
+}
+
+.phone:hover {
+    border: 1px solid #b1191a;
+}
+
+.phone img {
+    margin-left: 80px;
+    margin-top: 17px;
+}
+
+.phone h1 {
+    display: inline-block;
+    font-size: 22px;
+    color: #b1191a;
+    margin-left: 12px;
+    margin-top: 10px;
+
+}
+
+.phone h2 {
+    display: inline-block;
+    text-decoration: line-through;
+    font-size: 14px;
+    color: #cdcdcd;
+    text-align: left;
+}
+
+.phone h3 {
+    margin-top: 25px;
+    margin-left: 12px;
+}
+
+.saled {
+    margin-top: 5px;
+    height: 16px;
+    width: 290px;
+    padding-left: 12px;
+
+}
+
+.saled i {
+    float: left;
+}
+
+.saled h5 {
+    float: left;
+    margin-left: 10px;
+}
+
+.red_border {
+    margin-left: 10px;
+    margin-top: 3px;
+    float: left;
+    height: 12px;
+    width: 133px;
+    border-radius: 6px;
+    border: 1px solid #ed282e;
+}
+
+.red_content {
+    margin-top: -1px;
+    margin-left: -1px;
+    height: 12px;
+    border-radius: 6px 0 0 6px;
+    width: 100px;
+    background-color: #ed282e;
+}
+
+.phone .quickly {
+    float: left;
+    margin-top: 7px;
+    height: 50px;
+    width: 288px;
+    background-color: #b1191a;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.goods .phone:nth-child(4n) {
+    margin-right: 0px;
+}
+
+.guding {
+    height: 137px;
+    width: 68px;
+    font-family: 'icomoon';
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    left: 50%;
+    top: calc(100% - 180px);
+    margin-left: 630px;
+}
+
+.top_guding {
+    width: 68px;
+    height: 68px;
+    background-color: #b1191a;
+}
+
+.down_guding {
+    width: 68px;
+    height: 68px;
+    background-color: #b1191a;
+    margin-top: 1px;
+    line-height: 68px;
+    font-size: 25px;
+}
